@@ -8,7 +8,7 @@ Choi Kam Ming	(13252394)
 Chan Wing San	(13430013)
 
 Application link: 
-https://three81sample.onrender.com
+(https://comps381f-gp18-main.onrender.com/)
 
 =================================================================================================================================
 # Login & Register
