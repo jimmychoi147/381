@@ -108,7 +108,7 @@ In this project, there are three HTTP request types, post, get and delete.
 	Path URL: /api/insert
 	For curl (Mac / Linux)
 	```
-	curl --request POST --location "https://comps381f-gp18-main.onrender.com/dashboard" --header 'Content-Type: application/json' -data-raw '{"firstName": "Test","lastName": "er","details": "Tester","tel": "777","email": "tester123@gmail.com"}'
+	curl --request POST --location "http://localhost:5000/api/insert" --header 'Content-Type: application/json' -data-raw '{"firstName": "Test","lastName": "er","details": "Tester","tel": "777","email": "tester123@gmail.com"}'
 	```
 	For Window PowerShell
 	```
